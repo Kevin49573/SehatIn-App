@@ -57,6 +57,7 @@ Aplikasi ini menggunakan simulasi IBM Granite AI untuk analisis kesehatan:
 4. **Tongue Exam**: Pemeriksaan coating lidah, warna, indikator kesehatan pencernaan
 **Mock Data:**
 Saat ini menggunakan data simulasi untuk demo. Dalam implementasi nyata akan terintegrasi dengan API IBM Granite untuk analisis real.
+
 **Akurasi:**
 1. Setiap hasil dilengkapi confidence score (0-100%)
 2. Risk level: Low (0-33%), Medium (34-66%), High (67-100%)
