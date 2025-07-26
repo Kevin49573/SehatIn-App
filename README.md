@@ -13,10 +13,12 @@ Fitur utama:
 2. CSS3 dengan animasi custom
 3. JavaScript ES6+
 4. Tailwind CSS
+
 **Library & API:**
 1. Lucide Icons untuk ikon
 2. File API untuk upload gambar
 3. Camera API untuk foto langsung
+
 **AI Engine:**
 1. IBM Granite AI (simulasi)
 2. Computer vision untuk analisis gambar
@@ -39,17 +41,20 @@ Fitur utama:
    npx live-server
    ```
 4. Akses di `http://localhost:8000`
+
 **Requirements:**
 1. Browser modern (Chrome, Firefox, Safari, Edge)
 2. Izin akses kamera untuk foto langsung
 3. Koneksi internet untuk load CDN
 ## AI Support
-Aplikasi ini menggunakan simulasi IBM Granite AI untuk analisis kesehatan:
+Aplikasi ini menggunakan IBM AI Granite 3.3-8b-instruct untuk membantu pengembangan pemograman aplikasi dan analisis kesehatan di dalam aplikasi:
+
 **Cara Kerja:**
 1. User upload foto organ yang ingin diperiksa
 2. AI memproses gambar dan detect pattern kesehatan
 3. System generate confidence score dan risk level
 4. Memberikan rekomendasi berdasarkan findings
+
 **Jenis Analisis:**
 1. **Eye Analysis**: Deteksi anemia dari warna kelopak mata, tanda kelelahan
 2. **Skin Health**: Cek tingkat hidrasi, elastisitas kulit, tanda defisiensi vitamin
@@ -66,3 +71,5 @@ Saat ini menggunakan data simulasi untuk demo. Dalam implementasi nyata akan ter
 Hasil analisis SehatIn hanya untuk informasi dan tidak menggantikan konsultasi medis profesional. Selalu konsultasi dengan dokter untuk diagnosis dan treatment yang tepat.
 ## Contact
 Kevin Nataniel Halim - kevinnatanielhalim@gmail.com
+## Presentasi Aplikasi 
+Untuk informasi lebih detail tentang aplikasi ini bisa kunjungi link tautan berikut : https://sehatinapp.my.canva.site/ 
