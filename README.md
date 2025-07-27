@@ -32,15 +32,7 @@ Fitur utama:
 6. **Responsive Design**: Work di desktop dan mobile
 7. **Notifikasi**: Alert untuk berbagai aksi user
 ## Setup & Instalasi
-1. Clone atau download project ini
-2. Buka file `index.html` di browser modern
-3. Atau jalankan local server:
-   ```bash
-   python -m http.server 8000
-   # atau
-   npx live-server
-   ```
-4. Akses di `http://localhost:8000`
+1. Buka link https://sehatinappproject.netlify.app/
 
 **Requirements:**
 1. Browser modern (Chrome, Firefox, Safari, Edge)
